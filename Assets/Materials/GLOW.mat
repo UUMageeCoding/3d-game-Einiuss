@@ -9,10 +9,11 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: GLOW
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 2100000, guid: e29277f52c158d748a27bde5739c10f1, type: 2}
+  m_Parent: {fileID: 2100000, guid: de017c899900be143bed02727c7b8711, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _METALLICSPECGLOSSMAP
+  - _OCCLUSIONMAP
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
